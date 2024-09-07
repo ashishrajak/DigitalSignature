@@ -1,0 +1,6 @@
+com/DigitalSignature/DigitalSignature/controller/Controller.class
+com/DigitalSignature/DigitalSignature/service/TestService.class
+com/DigitalSignature/DigitalSignature/DigitalSignatureApplication.class
+com/DigitalSignature/DigitalSignature/PdfSignerWithPKCS11.class
+com/DigitalSignature/DigitalSignature/PDFSignatureService.class
+com/DigitalSignature/DigitalSignature/Test.class
